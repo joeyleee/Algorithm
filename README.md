@@ -8,3 +8,4 @@
 ### [2.字符串](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/string)<br/>
 ### [3.堆栈和队列](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/queue_stack)<br/>
 ### [4.链表](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/linkedlist)<br/>
+### [5.二分查找](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/binary_search)<br/>
