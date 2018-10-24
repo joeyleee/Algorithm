@@ -10,3 +10,5 @@
 ### [4.链表](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/linkedlist)<br/>
 ### [5.二分查找](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/binary_search)<br/>
 ### [6.二叉树](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/binary_tree)<br/>
+### [7.位运算](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/bit_operation)<br/>
+### [8.排列组合](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/permutation_combination)<br/>
