@@ -1,6 +1,7 @@
 算法解题代码
 ============
 记录我在学习算法的过程中，所编写的解题代码，如果觉得有用可以点个星哦。<br>
+----------------------------------------------------------------------------
 [牛客网面试算法](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src)<br>
 ----------------------------------------------------------------------------
 该课程所有的解题代码都在其中，可以点击导航到各个部分:<br>
@@ -15,3 +16,7 @@
 ### [9.概率](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/probability)<br/>
 ### [10.动态规划](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/dynamic_programming)<br/>
 ### [11.智力题](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/brain_puzzles)<br/>
+----------------------------------------------------------------------------
+[剑指offer在线编程](https://www.nowcoder.com/ta/coding-interviews)<br>
+----------------------------------------------------------------------------
+### [1.二维数组中的查找](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/sort)<br/>
