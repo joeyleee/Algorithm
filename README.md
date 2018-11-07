@@ -19,4 +19,13 @@
 ----------------------------------------------------------------------------
 [剑指offer在线编程](https://www.nowcoder.com/ta/coding-interviews)<br>
 ----------------------------------------------------------------------------
-### [1.二维数组中的查找](https://github.com/joeyleee/Algorithm/tree/master/nc_algorithm/src/sort)<br/>
+### [面试题1：二维数组中的查找](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/Find.java)<br/>
+### [面试题5：替换空格](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/ReplaceSpace.java)<br/>
+### [面试题6：从尾打到头打印链表](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/printListFromTailToHead.java)<br/>
+### [面试题7：重建二叉树](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/reConstructBinaryTree.java)<br/>
+### [面试题9：用两个栈实现队列](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/createQueueWithStack.java)<br/>
+### [面试题8：斐波那契数列](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/Fibonacc.java)<br/>
+### [面试题11：旋转数组的最小数字](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/minNumberInRotateArray.java)<br/>
+### [扩充：跳台阶](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/JumpFloor.java)<br/>
+### [扩充：变态跳台阶](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/JumpFloorII.java)<br/>
+### [扩充：矩形覆盖](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/RectCover.java)<br/>
