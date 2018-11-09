@@ -23,9 +23,13 @@
 ### [面试题5：替换空格](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/ReplaceSpace.java)<br/>
 ### [面试题6：从尾打到头打印链表](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/printListFromTailToHead.java)<br/>
 ### [面试题7：重建二叉树](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/reConstructBinaryTree.java)<br/>
-### [面试题9：用两个栈实现队列](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/createQueueWithStack.java)<br/>
 ### [面试题8：斐波那契数列](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/Fibonacc.java)<br/>
+### [面试题9：用两个栈实现队列](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/createQueueWithStack.java)<br/>
 ### [面试题11：旋转数组的最小数字](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/minNumberInRotateArray.java)<br/>
 ### [扩充：跳台阶](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/JumpFloor.java)<br/>
 ### [扩充：变态跳台阶](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/JumpFloorII.java)<br/>
 ### [扩充：矩形覆盖](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/RectCover.java)<br/>
+### [面试题15：二进制中1的个数](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/NumberOf1.java)<br/>
+### [面试题16：数值的整数次方](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/Power.java)<br/>
+### [面试题17：打印从1到最大的n位数](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/print1ToNDigits.java)<br/>
+### [面试题19：正则表达式匹配](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/match.java)<br/>
