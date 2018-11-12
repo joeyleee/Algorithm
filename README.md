@@ -33,3 +33,10 @@
 ### [面试题16：数值的整数次方](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/Power.java)<br/>
 ### [面试题17：打印从1到最大的n位数](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/print1ToNDigits.java)<br/>
 ### [面试题19：正则表达式匹配](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/match.java)<br/>
+### [面试题21：调整数组顺序使奇数位于偶数前面](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/reOrderArray.java)<br/>
+### [面试题22：链表中倒数第K个节点](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/FindKthToTail.java)<br/>
+### [面试题24：反转链表](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/ReverseList.java)<br/>
+### [面试题25：合并两个排序的链表](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/Merge.java)<br/>
+### [面试题26：树的子结构](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/HasSubtree.java)<br/>
+### [面试题27：二叉树的镜像](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/Mirror.java)<br/>
+### [面试题29：顺时针打印矩阵](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/printMatrix.java)<br/>
