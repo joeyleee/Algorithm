@@ -59,4 +59,12 @@
 ### [面试题50：第一个只出现一次的字符](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/FirstNotRepeatingChar.java)<br/>
 ### [扩充：字符流中第一个不重复的字符](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/FirstAppearingOnce.java)<br/>
 ### [面试题51：数组中的逆序对](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/InversePairs.java)<br/>
-### [面试题52：两个链表的第一个公共节点](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/FindFirstCommonNod.java)<br/>
+### [面试题52：两个链表的第一个公共节点](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/FindFirstCommonNode.java)<br/>
+### [面试题53：在排序数组中查找数字](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/GetNumberOfK.java)<br/>
+### [面试题54：二叉搜索树的第K大节点](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/KthNode.java)<br/>
+### [面试题55：二叉树的深度](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/TreeDepth.java)<br/>
+### [扩充：平衡二叉树](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/IsBalanced_Solution.java)<br/>
+### [面试题56：数组中数字出现的次数](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/FindNumsAppearOnce.java)<br/>
+### [面试题57：和为S的数](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/FindNumbersWithSum.java)<br/>
+### [补充：和为S的连续正整数序列](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/FindContinuousSequence.java)<br/>
+### [面试题58：翻转字符串](https://github.com/joeyleee/Algorithm/blob/master/sword_offer/src/ReverseSentence.java)<br/>
