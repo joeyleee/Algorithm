@@ -1,7 +1,7 @@
 import java.util.Arrays;
-public class print1ToNDigits {
+public class Print1ToNDigits {
     public static void main(String[] args) {
-        print1ToNDigits test = new print1ToNDigits();
+        Print1ToNDigits test = new Print1ToNDigits();
         test.printToMax(3);
     }
     public void printNumber(char[] num){
